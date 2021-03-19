@@ -1,7 +1,5 @@
 ## Welcome 作業四 40717003 陳煥龍
 
-# 123
-
 # ![long54621](https://lh3.googleusercontent.com/proxy/nko_De5gIxUajS2ejnd09aPOo9gBw37T1m3Ig7lwEee_5ZrCvD_hZRhNLVGFSsGtU3CFQxzUcuWvNHjEHMooupTOlvlRj1ng7IqOhTB4xSiLYWsGD5IGKioWagli)  
 
 
