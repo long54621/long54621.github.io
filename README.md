@@ -1,7 +1,7 @@
 ## Welcome 作業四 40717003 陳煥龍
 
 
-![long54621](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.ltn.com.tw%2Fnews%2Fworld%2Fbreakingnews%2F2751603&psig=AOvVaw2m4WmPgKE_w3hHZh_5Ql-m&ust=1616816710076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjDvOCFze8CFQAAAAAdAAAAABAD)  
+![long54621](https://img.ltn.com.tw/Upload/news/600/2019/04/07/php4mBsk2.png)  
 
 
 You can use the [editor on GitHub](https://github.com/long54621/long54621.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
